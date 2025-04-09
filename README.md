@@ -51,6 +51,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had difficlty linking to another page so I utilized out lesson on routers
 
 ## License
 
